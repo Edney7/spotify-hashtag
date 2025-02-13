@@ -15,3 +15,6 @@ export default App2
 
 // export default, posso importar com qualquer nome e sem chaves
 // export "sem default", só posso importar entre chaves e com o nome exportado {App2}
+
+// Nomeação de classes em CSS:
+// Metodologia BEM Blocks, Elements e Modifiers
